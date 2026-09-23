@@ -73,16 +73,4 @@ Adds `BaseModuleRank2FibreNoGo`: the six exact Selling wall matrices generate al
 C_3\hookrightarrow S_3,
 }$$) . Existing public APIs and CLI are unchanged.
 
-v55 progression on Binet Birefringence produced : $$\boxed{
-S_4/V_4&\simeq S_3,\\
-V_{\rm pair}^{(2)}
-&=\texttt{PROVEN},\\
-C_3\hookrightarrow S_3
-&=\texttt{PROVEN},\\
-\text{2-lift on the 17 relations}
-&=\texttt{PROVEN},\\
-\text{Squier 3-subcomplex}
-&=\texttt{PROVEN},\\
-\text{Peiffer on that 3-subcomplex}
-&=\texttt{PROVEN}.
-}$$
+v55 progression on Binet Birefringence produced : see the latex-equation2.pdf joined
