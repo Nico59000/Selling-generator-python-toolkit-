@@ -72,3 +72,18 @@ The v0.4.4 exact ternary witness path clears denominators and invokes an exact h
 Adds `BaseModuleRank2FibreNoGo`: the six exact Selling wall matrices generate all of `M_3(Q)` (dimension 9), hence the source base module `Q^3` is irreducible. No natural rank-2 fibre can therefore be obtained as a linear subrepresentation or quotient of that base module. This is a scoped no-go; unrelated 2D representations, nonlinear/finite fibres and native 5D walls/conorms remain open (a track oppened on $$\boxed{
 C_3\hookrightarrow S_3,
 }$$) . Existing public APIs and CLI are unchanged.
+
+v55 progression on Binet Birefringence produced : $$\boxed{
+\begin{aligned}
+S_4/V_4&\simeq S_3,\\
+V_{\rm pair}^{(2)}
+&=\texttt{PROVEN},\\
+C_3\hookrightarrow S_3
+&=\texttt{PROVEN},\\
+\text{2-lift on the 17 relations}
+&=\texttt{PROVEN},\\
+\text{Squier 3-subcomplex}
+&=\texttt{PROVEN},\\
+\text{Peiffer on that 3-subcomplex}
+&=\texttt{PROVEN}.
+\end{aligned}}$$
