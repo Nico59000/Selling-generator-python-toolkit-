@@ -73,4 +73,4 @@ Adds `BaseModuleRank2FibreNoGo`: the six exact Selling wall matrices generate al
 C_3\hookrightarrow S_3,
 }$$) . Existing public APIs and CLI are unchanged.
 
-v55 progression on Binet Birefringence produced : see the latex-equation2.pdf joined
+v55 progression on Binet Birefringence produced : see the latex-equation-2.pdf joined
