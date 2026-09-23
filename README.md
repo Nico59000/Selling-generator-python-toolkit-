@@ -74,7 +74,6 @@ C_3\hookrightarrow S_3,
 }$$) . Existing public APIs and CLI are unchanged.
 
 v55 progression on Binet Birefringence produced : $$\boxed{
-\begin{aligned}
 S_4/V_4&\simeq S_3,\\
 V_{\rm pair}^{(2)}
 &=\texttt{PROVEN},\\
@@ -86,4 +85,4 @@ C_3\hookrightarrow S_3
 &=\texttt{PROVEN},\\
 \text{Peiffer on that 3-subcomplex}
 &=\texttt{PROVEN}.
-\end{aligned}}$$
+}$$
