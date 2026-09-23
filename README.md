@@ -61,3 +61,12 @@ The v0.4.4 exact ternary witness path clears denominators and invokes an exact h
 
 `selling_toolkit.cohomology.DeterminantSwapH1NoGo` certifies that every source-exact linear lower-triangular coupling `C(A)` for the determinant-swap fibre module is a coboundary. A finite subset of exact matrix relations already gives generator-level cocycle solution dimension 6, equal to the 6-dimensional coboundary space, hence actual `H^1` is zero. The relation list is not claimed to be a complete presentation; it is sufficient for the no-go. Nonlinear extensions, different fibre representations, and genuinely native 5D Selling walls/conorms remain open.
 
+## v0.4.5 continuation-11
+
+- Public-schema stability pass 1/2: all 0.4.4 exports/signatures and critical numeric/quartic/CLI modules preserved byte-for-byte.
+- Adds exact `GoldenResidualAffineH1NoGo`: affine signed-residual shifts have H^1=0 under the sufficient exact Selling relation set, hence are gauge-trivial.
+- Existing det-swap linear H^1=0, golden residual adapter, exact quartic inverse and fast integer quotient APIs remain unchanged.
+
+## v0.4.6 additive fibre-representation audit
+
+Adds `BaseModuleRank2FibreNoGo`: the six exact Selling wall matrices generate all of `M_3(Q)` (dimension 9), hence the source base module `Q^3` is irreducible. No natural rank-2 fibre can therefore be obtained as a linear subrepresentation or quotient of that base module. This is a scoped no-go; unrelated 2D representations, nonlinear/finite fibres and native 5D walls/conorms remain open. Existing public APIs and CLI are unchanged.
