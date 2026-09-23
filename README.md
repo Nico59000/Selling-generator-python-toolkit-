@@ -69,4 +69,6 @@ The v0.4.4 exact ternary witness path clears denominators and invokes an exact h
 
 ## v0.4.6 additive fibre-representation audit
 
-Adds `BaseModuleRank2FibreNoGo`: the six exact Selling wall matrices generate all of `M_3(Q)` (dimension 9), hence the source base module `Q^3` is irreducible. No natural rank-2 fibre can therefore be obtained as a linear subrepresentation or quotient of that base module. This is a scoped no-go; unrelated 2D representations, nonlinear/finite fibres and native 5D walls/conorms remain open. Existing public APIs and CLI are unchanged.
+Adds `BaseModuleRank2FibreNoGo`: the six exact Selling wall matrices generate all of `M_3(Q)` (dimension 9), hence the source base module `Q^3` is irreducible. No natural rank-2 fibre can therefore be obtained as a linear subrepresentation or quotient of that base module. This is a scoped no-go; unrelated 2D representations, nonlinear/finite fibres and native 5D walls/conorms remain open (a track oppened on $$\boxed{
+C_3\hookrightarrow S_3,
+}$$ . Existing public APIs and CLI are unchanged.
