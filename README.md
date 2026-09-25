@@ -74,3 +74,7 @@ C_3\hookrightarrow S_3,
 }$$) . Existing public APIs and CLI are unchanged.
 
 v55 progression on Binet Birefringence produced : see the latex-equation-2.pdf joined
+
+The selling genrator stay formerly on v0.5.0 in current development . The experimental branch v0.6.0 is acquiring new contexts explorations  . Some recent results in infinite/dicreet domain coverage : 
+$H_4(L_{34})=\Lambda^2H_3(L_{34})\simeq\mathbb Z.$
+$\boxed{\mathcal M_{\mathrm{st}}(\widehat X)=\mathbb L^5+5\mathbb L^4+\mathbb L^3.}$ hence $\boxed{E_{\mathrm{st}}(\widehat X;u,v)=(uv)^5+5(uv)^4+(uv)^3,\qquade_{\mathrm{st}}(\widehat X)=7.}$ for the model-independent promotion
