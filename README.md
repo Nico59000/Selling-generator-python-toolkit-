@@ -79,7 +79,7 @@ The selling generator stay formerly on v0.5.0 in current development .
 
 The experimental branch v0.6.0 is acquiring new contexts explorations . 
 
-Some recent results in infinite/finite domain coverage : 
+Some recent results in infinite/finite domains coverage : 
 
 $H_4(L_{34})=\Lambda^2H_3(L_{34})\simeq\mathbb Z.$
 
