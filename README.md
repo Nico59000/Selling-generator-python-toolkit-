@@ -86,3 +86,5 @@ $H_4(L_{34})=\Lambda^2H_3(L_{34})\simeq\mathbb Z.$
 $\boxed{\mathcal M_{\mathrm{st}}(\widehat X)=\mathbb L^5+5\mathbb L^4+\mathbb L^3.}$ hence $\boxed{E_{\mathrm{st}}(\widehat X;u,v)=(uv)^5+5(uv)^4+(uv)^3,\qquad e_{\mathrm{st}}(\widehat X)=7.}$ for the model-independent promotion
 
 actual v30 of parallel formal progression is : v30 - Compact dlt pair, relative Picard-Lefschetz, repasting reflection and marked stringy splitting
+
+For all multiwalls $N'D$ factors , a Steiner trees identification is in progress .
