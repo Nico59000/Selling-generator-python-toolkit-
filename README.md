@@ -87,4 +87,4 @@ $\boxed{\mathcal M_{\mathrm{st}}(\widehat X)=\mathbb L^5+5\mathbb L^4+\mathbb L^
 
 actual v30 of parallel formal progression is : v30 - Compact dlt pair, relative Picard-Lefschetz, repasting reflection and marked stringy splitting
 
-For all multiwalls $N'D$ factors , a Steiner trees identification is in progress .
+For all multiwalls $N'D$ factors (currently 57 families,and more than 400 occurences) , a Steiner trees identification is in progress .
